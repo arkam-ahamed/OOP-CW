@@ -1,0 +1,33 @@
+-----------------------------
+Details of doctor mahfoos ahmed
+-----------------------------
+Name: mahfoos
+Surname: ahmed
+Date of Birth: 1999-07-20
+Mobile Number: ahmed
+Medical License No: 44
+Specialized In: test-----------------------------
+Details of doctor john doe
+-----------------------------
+Name: john
+Surname: doe
+Date of Birth: 1999-01-20
+Mobile Number: doe
+Medical License No: 029
+Specialized In: test-----------------------------
+Details of doctor isuru test
+-----------------------------
+Name: isuru
+Surname: test
+Date of Birth: 1989-02-02
+Mobile Number: test
+Medical License No: 99
+Specialized In: test-----------------------------
+Details of doctor test test
+-----------------------------
+Name: test
+Surname: test
+Date of Birth: 1988-02-20
+Mobile Number: test
+Medical License No: 1111
+Specialized In: test
